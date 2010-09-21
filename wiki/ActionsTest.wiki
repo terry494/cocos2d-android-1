@@ -4,7 +4,7 @@
 
   Almost all pass.
 
-  Opacity doesn't work, others, like scale, move, rotate, propertyaction, function calls, delaytime, spawn work.
+  Opacity doesn't work, others, like scale, move, rotate, propertyaction, function calls, delaytime, spawn, fadein/fadeout work. There is a demo downloadable.
 
 = Details =
 
