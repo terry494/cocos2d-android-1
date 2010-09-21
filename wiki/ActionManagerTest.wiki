@@ -2,7 +2,7 @@
 
 = Introduction =
 
-ActionManagerTest, almost all pass.
+ActionManagerTest, almost all pass. There is a demo in downloads.
 
 
 = Details =
