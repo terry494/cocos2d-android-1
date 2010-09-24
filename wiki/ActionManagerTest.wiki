@@ -2,8 +2,8 @@
 
 = Introduction =
 
-ActionManagerTest, almost all pass. There is a demo in downloads.
-
+ActionManagerTest, almost all pass. There is a demo in downloads:
+http://code.google.com/p/cocos2d-android-1/downloads/detail?name=ActionManagerTest.3gp&can=2&q=#makechanges
 
 = Details =
 
