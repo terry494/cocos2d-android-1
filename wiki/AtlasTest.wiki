@@ -2,7 +2,8 @@
 
 = Introduction =
 
-  All pass, for CCTextureAtlas, and CCBitmapFontAtlas. There is a demo downloadable.
+  All pass, for CCTextureAtlas, and CCBitmapFontAtlas. There is a demo downloadable:
+http://code.google.com/p/cocos2d-android-1/downloads/detail?name=CCTextureAtlas%20and%20CCBitmapFontAtlas.3gp&can=2&q=#makechanges
 
 
 = Details =
