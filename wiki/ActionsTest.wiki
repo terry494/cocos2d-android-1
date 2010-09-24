@@ -4,7 +4,8 @@
 
   Almost all pass.
 
-  Opacity doesn't work, others, like scale, move, rotate, propertyaction, function calls, delaytime, spawn, fadein/fadeout work. There is a demo downloadable.
+  Opacity doesn't work, others, like scale, move, rotate, propertyaction, function calls, delaytime, spawn, fadein/fadeout work. There is a demo downloadable:
+http://code.google.com/p/cocos2d-android-1/downloads/detail?name=ActionsTest.3gp&can=2&q=#makechanges
 
 = Details =
 
