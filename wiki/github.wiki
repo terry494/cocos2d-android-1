@@ -1,4 +1,4 @@
-#labels source,cocos2d,android
+#labels Featured,cocos2d,android
 The source code for this probject is on github:
 
     http://github.com/ZhouWeikuan/cocos2d 
