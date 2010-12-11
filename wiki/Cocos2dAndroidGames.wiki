@@ -11,6 +11,6 @@ I'd like to use it create some games and then fix the bugs found.
 Here are some games based on cocos2d-android, by me:-)
   * Princess' secret  
      It is a hidden object type game, very simple, and use some basic scenes, actions.
-  * Chinese Chess
+  * Chinese Chess 9 levels
      Ported from iphone version, to improve the pieces size.
   * And welcome to add others, if any:-)
