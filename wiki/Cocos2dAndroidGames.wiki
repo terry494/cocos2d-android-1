@@ -14,3 +14,7 @@ Here are some games based on cocos2d-android, by me:-)
   * Chinese Chess 9 levels
      Ported from iphone version, to improve the pieces size.
   * And welcome to add others, if any:-)
+
+Games by opengenius:
+  * SkyTower
+     Building tower game, CCSrites, TextureAtlas, CCBitmapFontAtlas, actions.
