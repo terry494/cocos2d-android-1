@@ -17,3 +17,4 @@ Here are some games based on cocos2d-android, by me:-)
 Games by opengenius:
   * Sky Tower
      Tower building game, CCSrites, TextureAtlas, CCBitmapFontAtlas, actions.
+  * Paradise Island
